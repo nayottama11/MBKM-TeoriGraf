@@ -47,16 +47,6 @@ Program ini menyelesaikan **Chinese Postman Problem**, yaitu mencari lintasan te
 
 **Cara menjalankan:**
 ```bash
-python ChinesePostmanAlgorithm.py
-```
-
----
-
-### Chinese Postman Problem (Revisi)
-Versi revisi dari implementasi Chinese Postman dengan perbaikan logika program.
-
-**Cara menjalankan:**
-```bash
 python ChinesePostmanAlgorithmRevisi.py
 ```
 
